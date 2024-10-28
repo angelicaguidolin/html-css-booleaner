@@ -48,3 +48,15 @@ thead{
     background-color: yellow;
     color: black;
  }
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+.box_img{
+    width: 312px;
+    height: 208px;
+    color: #ffffff;
+    font-size: 22px;
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
