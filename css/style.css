@@ -24,21 +24,27 @@ table{
     text-align:center;
 }
 .big{
-   height: 100px;
+
     background-color:#B1E5F2
 }
 thead{
    background-color: #20A9E5; 
    color: white;
+   text-align: left;
 }
 .big2{
-    height: 50px;
+   
      background-color:#ffffff
  }
  tfoot{
     background-color: #B1E5F2;
-    height: 50px;
+   
  }
- .sottolineatura{
+ 
+ .cellbigger{
+    width: 60%;
+ }
+ mark{
     background-color: yellow;
+    color: black;
  }
